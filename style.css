@@ -13,3 +13,34 @@ body {
 .about {
   padding: 60px 20px;
 }
+
+.problem, .solution, .impact, .cta {
+  padding: 60px 20px;
+}
+
+.problem {
+  background: #f5f5f5;
+}
+
+.solution {
+  background: #e8f5e9;
+}
+
+.impact {
+  background: #eef6ff;
+}
+
+.cta {
+  background: #0b3d2e;
+  color: white;
+  text-align: center;
+}
+
+.cta button {
+  padding: 12px 24px;
+  font-size: 16px;
+  background: white;
+  color: #0b3d2e;
+  border: none;
+  cursor: pointer;
+}
