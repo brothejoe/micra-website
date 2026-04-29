@@ -1,4 +1,4 @@
 console.log("MICRA website loaded"); 
 function contact() {
-  alert("Contact: your@email.com");
+  window.location.href = "mailto:cs.jakho@gmail.com";
 }
